@@ -346,6 +346,7 @@
 "Assets/Scripts/fixedUpdate.cs"
 "Assets/Scripts/lateUpdate.cs"
 "Assets/Scripts/move.cs"
+"Assets/Scripts/movePoints.cs"
 "Assets/Scripts/update.cs"
 -langversion:9.0
 /deterministic

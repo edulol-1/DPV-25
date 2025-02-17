@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "dp_lab.sln"
+    "dotnet.defaultSolution": "easy_primitive.sln"
 }
