@@ -348,6 +348,7 @@
 "Assets/Scripts/lateUpdate.cs"
 "Assets/Scripts/move.cs"
 "Assets/Scripts/movePoints.cs"
+"Assets/Scripts/PowerDown.cs"
 "Assets/Scripts/PowerUp.cs"
 "Assets/Scripts/update.cs"
 -langversion:9.0
